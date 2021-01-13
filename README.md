@@ -13,7 +13,7 @@
     <p style="font-size:30px">I love coding and solve code challenges!</p>
 </div>
 <h1>GitHub Summary:</h1>
-<div style="display:flex; justify-content:space-between">
+<div style="display:flex; justify-content:space-around">
     <img src="https://github-readme-stats.vercel.app/api?username=oimoralest&show_icons=true&theme=tokyonight" height="180px">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oimoralest&theme=tokyonight&langs_count=8&layout=compact" height="180px">
 </div>
