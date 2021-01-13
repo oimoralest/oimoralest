@@ -1,4 +1,4 @@
- Hi there! 👋
+# Hi there! 👋
 
 <!--
 **oimoralest/oimoralest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="./icons/twitter.png">
+<center>
+    <h1>Reach me at:</h1>
+    <a href="https://twitter.com/oi_moralest">
+        <img src="./icons/twitter.png" width="50px" height="50px">
+    </a>
+    <a href="https://www.linkedin.com/in/oscar-morales-7815501a4/">
+        <img src="./icons/linkedin.png" width="50px" height="50px">
+    </a>
+</center>
