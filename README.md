@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 <center>
     <h1>Reach me at:</h1>
     <a href="https://twitter.com/oi_moralest">
-        <img src="./icons/twitter.png" width="50px" height="50px">
+        <img src="./icons/twitter.png" width="100px" height="100px">
     </a>
     <a href="https://www.linkedin.com/in/oscar-morales-7815501a4/">
-        <img src="./icons/linkedin.png" width="50px" height="50px">
+        <img src="./icons/linkedin.png" width="100px" height="100px">
     </a>
 </center>
