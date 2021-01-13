@@ -18,23 +18,29 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oimoralest&theme=tokyonight&langs_count=8&layout=compact" height="180px">
 </div>
 <h1>Programming Languages:</h1>
-<div>
-    <img src="./icons/c-programming-569564.png" width="80px" height="80px">
-    <img src="./icons/python.png" width="80px" height="80px">
+<div style="font-size:15px">
+    <ul>
+        <li>C</li>
+        <li>Python</li>
+    </ul>
 </div>
 <h1>Skills:</h1>
 <div>
-    <img src="./icons/JS.png" width="80px" height="80px">
-    <img src="./icons/css.png" width="80px" height="80px">
-    <img src="./icons/html.png" width="80px" height="80px">
-    <img src="./icons/mysql.png" width="80px" height="80px">
+    <ul>
+        <li>JavaScript</li>
+        <li>CSS</li>
+        <li>HTML</li>
+        <li>MySQL</li>
+    </ul>
 </div>
 <h1>Development Environment:</h1>
 <div>
-    <img src="./icons/emacs.png" width="80px" height="80px">
-    <img src="./icons/visualStudio.png" width="80px" height="80px">
-    <img src="./icons/windows-8-icon.png" width="80px" height="80px">
-    <img src="./icons/ubuntu.png" width="80px" height="80px">
+    <ul>
+        <li>Favorite code editor: EMACS</li>
+        <li>Visual Studio Code</li>
+        <li>Windows</li>
+        <li>Ubuntu</li>
+    </ul>
 </div>
 <div align="center">
     <h1>Reach me at:</h1>
