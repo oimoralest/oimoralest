@@ -47,7 +47,7 @@
     <a href="https://twitter.com/oi_moralest">
         <img src="./icons/twitter.png" width="100px" height="100px">
     </a>
-    <a href="www.linkedin.com/in/oimoralest">
+    <a href="https://www.linkedin.com/in/oimoralest">
         <img src="./icons/linkedin.png" width="100px" height="100px">
     </a>
 </div>
