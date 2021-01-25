@@ -1,7 +1,7 @@
 <div id="description" style="font-size:15px">
     <h1> Hi there! 👋. I'm Oscar Morales!</h1>
     <ul>
-    <li>📚 I'm a software developer in progress</li>
+    <li>📚 I'm a Full-stack software developer from Colombia</li>
     <li>🔎 I would like to learn about: Video games development</li>
     <li>💪 I’m currently trying to improve: Python, MySQL, and JS skills</li>
     <li>💬 Ask me about: Fútbol (AC Milan fan), games, software development</li>
