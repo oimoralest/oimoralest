@@ -15,7 +15,7 @@
 </div>
 -->
 <div align="center">
-    <img src="https://www.mediafire.com/view/veouwd3k91nu4v1/Hello_there%2521.gif">
+    <img src="./Hello there!.gif">
 </div>
 <h1>GitHub Summary:</h1>
 <div style="display:flex; justify-content:space-around">
