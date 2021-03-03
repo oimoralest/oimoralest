@@ -15,7 +15,7 @@
 </div>
 -->
 <div align="center">
-    <img src="https://photos.app.goo.gl/uZVYN9v12P4xD7z99">
+    <img src="https://photos.google.com/share/AF1QipNy2jWBDsxHmt_jdoemNCMOqnom1madyJzWZ8JnorLLnRuoHBUI63g1kiXdyNnqJw/photo/AF1QipNyNbV-EYvtqi2AsQ9PrZNw4XNC62b_rSXcHBA9?key=ejdlZXZIcUIwV1VDOXAySGtrcmdqOGExLV9zQlpB">
 </div>
 <h1>GitHub Summary:</h1>
 <div style="display:flex; justify-content:space-around">
