@@ -1,3 +1,4 @@
+<!--
 <div id="description" style="font-size:15px">
     <h1> Hi there! 👋. I'm Oscar Morales!</h1>
     <ul>
@@ -12,6 +13,7 @@
     <img src="./icons/coding.gif">
     <p style="font-size:30px">I love coding and solve code challenges!</p>
 </div>
+-->
 <h1>GitHub Summary:</h1>
 <div style="display:flex; justify-content:space-around">
     <img src="https://github-readme-stats.vercel.app/api?username=oimoralest&show_icons=true&theme=tokyonight" height="180px">
