@@ -15,7 +15,7 @@
 </div>
 -->
 <div align="center">
-    <img src="https://photos.google.com/share/AF1QipNy2jWBDsxHmt_jdoemNCMOqnom1madyJzWZ8JnorLLnRuoHBUI63g1kiXdyNnqJw/photo/AF1QipNyNbV-EYvtqi2AsQ9PrZNw4XNC62b_rSXcHBA9?key=ejdlZXZIcUIwV1VDOXAySGtrcmdqOGExLV9zQlpB">
+    <img src="https://www.mediafire.com/view/veouwd3k91nu4v1/Hello_there%2521.gif">
 </div>
 <h1>GitHub Summary:</h1>
 <div style="display:flex; justify-content:space-around">
