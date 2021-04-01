@@ -24,7 +24,7 @@
 </div>
 <h1>Programming Languages:</h1>
 <div style="font-size:15px">
-    <ul>
+    <ul style="list-style:none; display:inline-flex">
         <li>C</li>
         <li>Python</li>
     </ul>
