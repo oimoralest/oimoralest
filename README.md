@@ -24,9 +24,8 @@
 </div>
 <h1>Programming Languages:</h1>
 <div style="font-size:15px">
-    <ul style="list-style:none; display:inline-flex">
-        <li>C</li>
-        <li>Python</li>
+    <ul>
+        <li>C</li><li>Python</li>
     </ul>
 </div>
 <h1>Skills:</h1>
