@@ -14,6 +14,7 @@
     <p style="font-size:30px">I love coding and solve code challenges!</p>
 </div>
 -->
+<span>
 <div align="center">
     <img src="./Hello there!.gif">
 </div>
@@ -25,25 +26,26 @@
 <h1>Programming Languages:</h1>
 <div style="font-size:15px">
     <ul>
-        <li>C</li><li>Python</li>
+        <li>C</li>
+        <li>Python</li>
+        <li>JavaScript</li>
     </ul>
 </div>
 <h1>Skills:</h1>
 <div>
     <ul>
-        <li>JavaScript</li>
+        <li>Git</li>
         <li>CSS</li>
         <li>HTML</li>
-        <li>MySQL</li>
+        <li>SQL</li>
+        <li>Docker</li>
     </ul>
 </div>
 <h1>Development Environment:</h1>
 <div>
     <ul>
-        <li>Favorite code editor: EMACS</li>
-        <li>Visual Studio Code</li>
-        <li>Windows</li>
-        <li>Ubuntu</li>
+        <li>Favorite code editor: Neovim, VS Code</li>
+        <li>Favorite OS: Linux based distributions</li>
     </ul>
 </div>
 <div align="center">
@@ -55,3 +57,4 @@
         <img src="./icons/linkedin.png" width="100px" height="100px">
     </a>
 </div>
+</span>
